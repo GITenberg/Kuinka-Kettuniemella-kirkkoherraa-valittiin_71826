@@ -1,0 +1,24 @@
+_repo: Kuinka-Kettuniemella-kirkkoherraa-valittiin_71826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leino, Paul Ferdinand
+    gutenberg_agent_id: '56413'
+    url: http://www.gutenberg.org/2009/agents/56413
+description: ''
+gutenberg_issued: '2023-10-07'
+identifiers:
+  gutenberg: '71826'
+language: fi
+pgterms:marc905: 20230912064945leino
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bG. W. Edlund, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuinka Kettuniemellä kirkkoherraa valittiin
+url: http://www.gutenberg.org/ebooks/71826
